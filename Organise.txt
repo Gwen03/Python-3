@@ -1,0 +1,13 @@
+Checkingwords order in the for loop function: (line number - 1)
+helpme
+exit
+inventory
+cod
+w
+s
+a
+d
+
+These are the ones that are for gameplay (line number - 2)
+crack
+meth
